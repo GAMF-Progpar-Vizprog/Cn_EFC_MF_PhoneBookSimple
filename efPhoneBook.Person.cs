@@ -16,7 +16,7 @@ using System.Data.Common;
 using System.Linq;
 using System.Linq.Expressions;
 
-namespace PhoneBook
+namespace Cn_EFC_MF_PhoneBookSimple
 {
     public partial class Person {
 

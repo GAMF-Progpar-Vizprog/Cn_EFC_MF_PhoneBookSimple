@@ -1,8 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <AssemblyName>Cn-EFC-MF-PhoneBookSimple</AssemblyName>
-    <RootNamespace>Cn-EFC-MF-PhoneBookSimple</RootNamespace>
     <OutputType>Exe</OutputType>
     <TargetFramework>net10.0</TargetFramework>
   </PropertyGroup>

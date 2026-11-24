@@ -2,8 +2,8 @@
 using System.Linq;
 using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
-using PhoneBook;
-namespace CnEFMF_PhoneBook
+using Cn_EFC_MF_PhoneBookSimple;
+namespace Cn_EFC_MF_PhoneBookSimple
 {
 	class Program
 	{	

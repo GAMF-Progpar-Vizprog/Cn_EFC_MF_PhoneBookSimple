@@ -23,7 +23,7 @@ using Microsoft.EntityFrameworkCore.Internal;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.Extensions.Configuration;
 
-namespace PhoneBook
+namespace Cn_EFC_MF_PhoneBookSimple
 {
 
     public partial class cnPhoneBook : DbContext

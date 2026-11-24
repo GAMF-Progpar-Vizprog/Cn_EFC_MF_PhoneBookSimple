@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<efcore context-namespace="PhoneBook" namespace="PhoneBook" p1:name="cnPhoneBook" p1:Guid="8993bf14-af10-453d-a32e-54ed6702eed1" xmlns:p1="http://devart.com/schemas/EntityDeveloper/1.0">
+<efcore context-namespace="Cn_EFC_MF_PhoneBookSimple" namespace="Cn_EFC_MF_PhoneBookSimple" p1:name="cnPhoneBook" p1:Guid="8993bf14-af10-453d-a32e-54ed6702eed1" xmlns:p1="http://devart.com/schemas/EntityDeveloper/1.0">
   <class name="Person" entity-set="People" p1:Guid="c8bcb048-df60-4ebe-ae79-b6cd1b043ed7">
     <id name="Id" type="Int16" value-generated="OnAdd" p1:ValidateRequired="true" p1:Guid="2233df11-f8f6-4b51-857b-7dd061743b41" p1:DoNotGenerateDataMemberAttribute="True">
       <column name="" />
